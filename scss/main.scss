@@ -1,0 +1,25 @@
+@import "./utils/variables";
+@import "./base";
+@import "./utils/fonts";
+@import "./utils/utils";
+@import "./components/buttons";
+@import "./components/links";
+@import "./layouts/header";
+@import "./layouts/advantages-section";
+@import "./layouts/chefs-section";
+@import "./layouts/contacts-section";
+@import "./layouts/footer";
+@import "./layouts/formats-section";
+@import "./layouts/hero-section";
+@import "./layouts/modal";
+@import "./layouts/traditions-section";
+@import "./utils/text";
+@import "./layouts/section";
+@import "./layouts/forms";
+@import "./layouts/mobile-menu";
+.container {
+  max-width: 1288px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 24px;
+}
